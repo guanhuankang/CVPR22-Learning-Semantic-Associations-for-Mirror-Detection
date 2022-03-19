@@ -1,0 +1,2 @@
+python .\demo.py -c .\checkpoints\u_train_on_pmd_lr5eN4it40k.pt -i .\examples\input\ -o .\examples\mask_output\
+python .\visual.py -i .\examples\input\ -m .\examples\mask_output\ -o .\examples\visual_output\
