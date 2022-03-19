@@ -1,5 +1,7 @@
 # Paper "Learning Semantic Associations for Mirror Detection" (CVPR 2022)
 
+![image-20220320010628363](C:\Users\26598\AppData\Roaming\Typora\typora-user-images\image-20220320010628363.png)
+
 > Github Repository: https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection
 
 Mirrors generally lack a consistent visual appearance, making mirror detection very challenging. Although recent
