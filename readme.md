@@ -1,6 +1,6 @@
 # Paper "Learning Semantic Associations for Mirror Detection" (CVPR 2022)
 
-![image-20220320010628363](C:\Users\26598\AppData\Roaming\Typora\typora-user-images\image-20220320010628363.png)
+![image-20220320010628363](title.png)
 
 > Github Repository: https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection
 
