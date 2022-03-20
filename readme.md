@@ -65,6 +65,12 @@ we provide a script (evaluation.py) for evaluation.
 
 
 
+Our results: 
+
+https://drive.google.com/drive/folders/1URH98GqQas3wyCBVgxLZ3wXhDMxhskC_?usp=sharing
+
+
+
 ## How we organize our training/testing data:
 PATH_TO_TRAINING_DATA
 
