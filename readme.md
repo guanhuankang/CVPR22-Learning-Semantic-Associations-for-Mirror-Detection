@@ -19,6 +19,22 @@ the new state-of-the-art on both PMD dataset (f-measure: 0.844) and MSD dataset 
 
 
 
+## Method Overview
+
+![image-20220521183824498](C:\Users\26598\AppData\Roaming\Typora\typora-user-images\image-20220521183824498.png)
+
+## Quantitative Comparison
+
+![image-20220522103830396](C:\Users\26598\AppData\Roaming\Typora\typora-user-images\image-20220522103830396.png)
+
+
+
+## Visual Results
+
+![image-20220522165823713](C:\Users\26598\AppData\Roaming\Typora\typora-user-images\image-20220522165823713.png)
+
+
+
 ## Installation
 
 This codebase depends on the following packages within python3.7+ env:
@@ -52,7 +68,7 @@ demo.py usage: python demo.py [-h] -c CHECKPOINTS -i IMAGE -o OUTPUT [-nocrf]
 visual.py usage: python visual.py [-h] -i IMAGE -m MASK -o OUTPUT
 ```
 
-We also provide some examples for you to play with (examples\input). Just run the demo.bat (platform Windows OS).
+We provide some examples for you to play with (examples\input). Just run the demo.bat (Windows OS platform). 
 
 ```bash
 > demo.bat
@@ -61,13 +77,11 @@ We also provide some examples for you to play with (examples\input). Just run th
 
 
 ## Evaluation
-we provide a script (evaluation.py) for evaluation.
+we provide a script (evaluation.py) for evaluation (our results: https://drive.google.com/drive/folders/1URH98GqQas3wyCBVgxLZ3wXhDMxhskC_?usp=sharing )
 
-
-
-Our results: 
-
-https://drive.google.com/drive/folders/1URH98GqQas3wyCBVgxLZ3wXhDMxhskC_?usp=sharing
+```shell
+evaluation.py usage: evaluation.py [-h] -pred PREDICTION -gt MIRRORMASK
+```
 
 
 
@@ -123,4 +137,8 @@ PATH_TO_TRAINING_DATA
 
 
 ## cite
+
+```raw
+Coming
+```
 
