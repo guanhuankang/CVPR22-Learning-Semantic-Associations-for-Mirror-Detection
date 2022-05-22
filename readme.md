@@ -1,8 +1,8 @@
 # Paper "Learning Semantic Associations for Mirror Detection" (CVPR 2022)
 
-![image-20220320010628363](_readme_images/title.png)
+![image-20220320010628363](_readme_doc/title.png)
 
-> Github Repository: https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection
+> [<a href="_readme_doc/CVPR1159_Mirror_detection_supplementary_material_2022.pdf"> suppl</a>] [<a href="https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection"> github</a>]
 
 Mirrors generally lack a consistent visual appearance, making mirror detection very challenging. Although recent
 works that are based on exploiting contextual contrasts and corresponding relations have achieved good results, heavily
@@ -21,17 +21,17 @@ the new state-of-the-art on both PMD dataset (f-measure: 0.844) and MSD dataset 
 
 ## Method Overview
 
-![image-20220521183824498](_readme_images/image-20220521183824498.png)
+![image-20220521183824498](_readme_doc/image-20220521183824498.png)
 
 ## Quantitative Comparison
 
-![image-20220522103830396](_readme_images/image-20220522103830396.png)
+![image-20220522103830396](_readme_doc/image-20220522103830396.png)
 
 
 
 ## Visual Results
 
-![image-20220522165823713](_readme_images/image-20220522165823713.png)
+![image-20220522165823713](_readme_doc/image-20220522165823713.png)
 
 
 
