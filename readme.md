@@ -2,7 +2,7 @@
 
 ![image-20220320010628363](_readme_doc/title.png)
 
-> [<a href="_readme_doc/CVPR1159_Mirror_detection_supplementary_material_2022.pdf"> suppl</a>] [<a href="https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection"> github</a>]
+> [<a href="_readme_doc/CVPR1159_Mirror_detection_supplementary_material_2022.pdf"> suppl</a>] [<a href="https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection"> github</a>]  [<a href="_readme_doc/cvpr22_01159_poster.pdf"> poster</a>]
 
 Mirrors generally lack a consistent visual appearance, making mirror detection very challenging. Although recent
 works that are based on exploiting contextual contrasts and corresponding relations have achieved good results, heavily
