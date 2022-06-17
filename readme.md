@@ -139,6 +139,13 @@ PATH_TO_TRAINING_DATA
 ## cite
 
 ```raw
-Coming
+@InProceedings{Guan_2022_CVPR,
+    author    = {Guan, Huankang and Lin, Jiaying and Lau, Rynson W.H.},
+    title     = {Learning Semantic Associations for Mirror Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {5941-5950}
+}
 ```
 
